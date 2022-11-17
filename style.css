@@ -1,0 +1,87 @@
+body {
+	
+}
+
+#img001{
+	width:100%;
+}
+
+#img002{
+	width:100%;
+	
+}
+
+
+#video01{
+
+	text-align: center;
+}
+
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 50px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+
+p {
+	text-align: center;
+}
+
+#imagens {
+	font-size: 25px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+
+.windsurf {
+	background: #0d1aa2a8;
+	padding: 40px;
+	text-align: center;
+}
+
+#img003{
+	width:100%;
+}
+
+#img003 {
+	font-size: 25px
+	text-align: center;
+
+}
+
+.canoagem {
+	background: #227f14a8;
+	padding: 40px;
+	text-align: center;
+}
+
+
+#img004 {
+	width:100%;
+}
+
+
+.creditos {
+
+	background: #f70323a8;
+	padding: 40px;
+	text-align: center;
+
+}
+
+
+#img005 {
+	width:100%;
+}
